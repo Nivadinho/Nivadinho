@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou o Cláudio Santos🖐
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
 
