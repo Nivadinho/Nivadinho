@@ -15,6 +15,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![Nivadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivadinho&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Contato :
 E-mail: claudio.hato2017@gmail.com
