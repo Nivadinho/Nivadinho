@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Cláudio Santos🖐
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Fullstack Developer in traning
 
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
 
