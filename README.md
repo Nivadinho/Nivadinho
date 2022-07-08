@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Cláudio Santos🖐
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
 
 ### Linguagens que compoêm a grade do meu curso na Dio (Bootcamp) "Santander fullstack developer" 🚀
