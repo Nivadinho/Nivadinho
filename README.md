@@ -13,7 +13,7 @@ Fullstack Developer
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Nivadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivadinho&show_icons=true&theme=radical)
+
 
 
 
