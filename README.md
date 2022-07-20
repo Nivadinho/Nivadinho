@@ -44,6 +44,7 @@
 
 
 ### Contato :
-E-mail: claudio.hato2017@gmail.com
+[![gmail]caudio.hato2017@gmail.com
 
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
+
