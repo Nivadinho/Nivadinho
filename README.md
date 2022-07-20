@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Cláudio Santos🖐
 Fullstack Developer 
 
+
+
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho&layout=compact)](https://github.com/Nivadinho/github-readme-stats)
+
 
 ### Linguagens que compoêm a grade do meu curso na Dio (Bootcamp) "Santander fullstack developer" 🚀
 
@@ -14,6 +16,7 @@ Fullstack Developer
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![nivadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=nivadinho&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho&layout=compact)](https://github.com/Nivadinho/github-readme-stats)
 
 
 
