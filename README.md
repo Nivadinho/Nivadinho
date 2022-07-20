@@ -16,7 +16,7 @@ Fullstack Developer
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![nivadinho GitHub stats](https://github-readme-stats.vercel.app/api?username=nivadinho&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho&layout=compact)](https://github.com/Nivadinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho&layout=compact)](https://https://github.com/Nivadinho/Nivadinho/edit/main/README.md-stats)
 
 
 
