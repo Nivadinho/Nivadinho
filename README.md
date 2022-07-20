@@ -2,6 +2,7 @@
 Fullstack Developer 
 
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivadinho&layout=compact)](https://github.com/Nivadinho/github-readme-stats)
 
 ### Linguagens que compoêm a grade do meu curso na Dio (Bootcamp) "Santander fullstack developer" 🚀
 
