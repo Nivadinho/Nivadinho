@@ -45,6 +45,12 @@
 
 [![Linkedln](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)](https://www.linkedin.com/in/cl%C3%A1udio-santos-9255661b3)
 
+### Instagram 
+
+![claudio_theater_qr](https://user-images.githubusercontent.com/107519290/181115733-1ecd4c34-18ac-470b-b180-71b7c687d1aa.png)
+
+
+
 ### Sites que eu recomendo
 
 [![DeveloperMozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
