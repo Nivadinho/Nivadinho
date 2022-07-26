@@ -37,11 +37,6 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
-
-
-
-
 
 
 
@@ -57,6 +52,24 @@
 [![W3C](https://html.spec.whatwg.org/multipage/)](https://html.spec.whatwg.org/multipage/)
 
 [![typescript](https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+
+
+
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+
+
+
+
+
+
+
+
 
 
 
