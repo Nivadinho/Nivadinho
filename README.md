@@ -54,3 +54,9 @@
 
 [![DeveloperMozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
+[![W3C](https://html.spec.whatwg.org/multipage/)](https://html.spec.whatwg.org/multipage/)
+
+[![typescript](https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+
+
+
